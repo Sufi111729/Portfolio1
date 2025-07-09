@@ -24,6 +24,8 @@
     "rm *",
     "find *",
     "ls *",
+    "cp *",
+    "mv *",
     "curl *",
     "npx tsc *",
     "head *",
