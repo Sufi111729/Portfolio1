@@ -80,7 +80,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Person",
               name: "Muhammad Sufiyan",
-              alternateName: ["MD Sufi", "Sufi", "Sufiyan"],
+              alternateName: ["MD Sufi", "Sufi", "Sufiyan", "Muhammad Sufiyan" , "SufiWeb", "MDSufiWeb", "Sufi Portfolio", "Sufi Developer", "Sufi Java Developer", "Sufi Full Stack Developer",],
               description:
                 "Full Stack Java Developer specializing in Spring Boot, React, and MySQL from Bangalore, India",
               url: "https://sufiweb.dev",
