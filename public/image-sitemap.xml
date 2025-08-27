@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <url>
+        <loc>https://portfoliosufi.netlify.app/</loc>
+        <image:image>
+            <image:loc>https://portfoliosufi.netlify.app/img/wild img.jpg</image:loc>
+            <image:caption>Muhammad Sufiyan (SUFI) - Full Stack Java Developer and Computer Science Graduate from India</image:caption>
+            <image:title>Muhammad Sufiyan Portfolio Photo</image:title>
+            <image:license>https://portfoliosufi.netlify.app/</image:license>
+        </image:image>
+        <image:image>
+            <image:loc>https://portfoliosufi.netlify.app/img/sufilogo.png</image:loc>
+            <image:caption>SUFI Logo - Muhammad Sufiyan Brand Logo for Full Stack Java Developer</image:caption>
+            <image:title>SUFI Developer Logo</image:title>
+            <image:license>https://portfoliosufi.netlify.app/</image:license>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://portfoliosufi.netlify.app/#about</loc>
+        <image:image>
+            <image:loc>https://portfoliosufi.netlify.app/img/pass pic.jpg</image:loc>
+            <image:caption>Muhammad Sufiyan SUFI - Professional Photo of Full Stack Java Developer specializing in Spring Boot and React</image:caption>
+            <image:title>Muhammad Sufiyan About Section Professional Portrait</image:title>
+            <image:license>https://portfoliosufi.netlify.app/</image:license>
+        </image:image>
+    </url>
+    
+</urlset>
